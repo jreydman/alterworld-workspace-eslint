@@ -1,0 +1,1 @@
+alterworld-workspace-eslint [eslint]
